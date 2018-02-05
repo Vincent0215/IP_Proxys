@@ -1,6 +1,6 @@
 # IP_Proxys
 get ip from internet with python
-
+用python3.6编辑实现，是自己写的第一个有功能的脚本。
 需求：
 从一个免费代理ip的网站获取该网站前几页的代理ip和相应的port，并保存到一个字典中以便使用。
 使用python3.6实现。
